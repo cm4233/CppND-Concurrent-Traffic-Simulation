@@ -1,7 +1,7 @@
 # Concurrent Traffic Simulation
 This project describes a concurrent traffic simulation in which all traffic objects(vehicles, intersections) are simulated using unique threads. To complete the simulation, all threads are run concurrently using thread communication protocols and concurrent programming.
 
-<img src="run.png"/>
+<img src="run.png" width="846" height="981"/>
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
