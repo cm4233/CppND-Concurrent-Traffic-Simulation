@@ -1,5 +1,5 @@
 # Concurrent Traffic Simulation
-This project describes a concurrent traffic simulation in which all traffic objects(vehicles, intersections) are simulated using unique threads. To complete the simulation, all threads are run concurrently using thread communication protocols and concurrent programming. The graphics for the simulation are rendred using OpenCV library.
+This project describes a concurrent traffic simulation in which traffic objects(vehicles, intersections) are simulated using unique threads. To complete the simulation, all threads are run concurrently using thread communication protocols and concurrent programming. The graphics for the simulation are rendred using OpenCV library.
 
 <img src="run.png"/>
 
